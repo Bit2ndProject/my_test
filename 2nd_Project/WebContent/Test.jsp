@@ -9,6 +9,6 @@
 <body>
 	<h1>Main HOME</h1>
 	<a href="test2">go to test2</a>
-	goodbyeasdasdasdasd
+	New Upload
 </body>
 </html>
